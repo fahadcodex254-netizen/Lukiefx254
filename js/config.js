@@ -1,5 +1,5 @@
 /**
- * LUKIE FX — Configuration & Shared Utilities
+ * Lukie Fx — Configuration & Shared Utilities
  */
 window.LFX = window.LFX || {};
 
@@ -11,7 +11,7 @@ LFX.CONFIG = {
   PHONE_DISPLAY:      '+254 114 319 611',
 
   /* === COMPANY === */
-  COMPANY_NAME:       'LUKIE FX',
+  COMPANY_NAME:       'Lukie Fx',
   COMPANY_ADDRESS:    'Nairobi, Kenya',
   REGULATORY_LICENSE: 'LFX-KE-2026-001',   /* ⚠️ Replace with your real license number when issued */
   SUPPORT_HOURS:      'Monday – Friday · 24 hours',
