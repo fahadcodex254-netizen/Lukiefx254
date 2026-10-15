@@ -1,5 +1,5 @@
 /**
- * LUKIE FX — Theme Management
+ * Lukie Fx — Theme Management
  */
 (function(){
   const STORAGE_KEY = 'lukie-theme';
@@ -9,7 +9,7 @@
     root.setAttribute('data-theme', theme);
     try { localStorage.setItem(STORAGE_KEY, theme); } catch(e){}
     const meta = document.querySelector('meta[name="theme-color"]');
-    if (meta) meta.setAttribute('content', theme === 'light' ? '#f4f7fc' : '#04091a');
+    if (meta) meta.setAttribute('content', theme === 'light' ? '#f4f7fc' : '#071230');
     window.dispatchEvent(new CustomEvent('lfx:themechange', { detail: { theme } }));
   }
 
