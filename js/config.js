@@ -7,13 +7,16 @@ LFX.CONFIG = {
   /* === CONTACT === */
   WHATSAPP_NUMBER:    '254114319611',
   TELEGRAM_LINK:      'https://t.me/tradewithlukie',
-  EMAIL:              'Lukiefx@gmail.com',
+  EMAIL:              'lukelesiasamuel@gmail.com',
   PHONE_DISPLAY:      '+254 114 319 611',
+
+  /* === BROKER === */
+  BROKER_LINK:        'https://client.ebccrm.com/signup?linkCode=J5300276-a01',
 
   /* === COMPANY === */
   COMPANY_NAME:       'Lukie Fx',
   COMPANY_ADDRESS:    'Nairobi, Kenya',
-  REGULATORY_LICENSE: 'LFX-KE-2026-001',   /* ⚠️ Replace with your real license number when issued */
+  REGULATORY_LICENSE: 'LFX-KE-2026-001',
   SUPPORT_HOURS:      'Monday – Friday · 24 hours',
   EFFECTIVE_DATE:     'September 17, 2026',
 
